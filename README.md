@@ -1,2 +1,3 @@
-# java101-pratik
-Not Ortalaması Hesaplayan Program
+# java101-practice
+This file includes Java-101 Practices and Projects
+
