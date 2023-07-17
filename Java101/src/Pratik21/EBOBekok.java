@@ -35,7 +35,6 @@ public class EBOBekok {
             System.out.println("GCD of " + n1+" and "+n2+ " : " + ebob);
         }
 
-        int j = 0;
         int ekok = (n1*n2)/ebob;
         System.out.println("LCF of " + n1+" and "+n2+ " : " + ekok);
 
